@@ -1,6 +1,6 @@
 # Pulse Discord Relay
 
-A small FastAPI service that accepts a POST request from your client script and forwards a controlled embed to a private Discord webhook.
+A small FastAPI service that accepts a POST request from a client script and forwards a controlled embed to a private Discord webhook.
 
 ## Endpoints
 
